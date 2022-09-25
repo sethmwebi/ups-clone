@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    ["module:react-native-dotenv", {
+      "allowlist": [
+        "STEPZEN_API_KEY",
+      ]
+    }]
+  ]
+}
